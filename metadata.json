@@ -1,0 +1,6 @@
+{
+  "name": "PromptVoice",
+  "description": "Simple voice-to-LLM prompt transcriber. Dictate your thoughts and get a detailed, structured AI instruction ready to copy.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
